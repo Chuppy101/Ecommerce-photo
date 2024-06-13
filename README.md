@@ -1,4 +1,4 @@
-# Ecommerce PhotoLand
+# Ecommerce Photo
 
 ![Главная страница проекта](files/Ecommerce.PNG)
 
